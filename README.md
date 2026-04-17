@@ -1,14 +1,22 @@
 # Hi, I'm Thierry 👋
 
-I'm an aspiring Data Scientist focused on building real-world, reproducible projects using Python, Pandas, and exploratory data analysis (EDA). I enjoy working with real datasets, uncovering patterns, and structuring my work in a clean, professional way.
+I'm a Data Scientist focused on building real-world, reproducible projects using Python, Pandas, and exploratory data analysis (EDA). I enjoy working with real datasets, uncovering patterns, and structuring my work in a clean, professional way.
 
-## 🔧 Tools & Technologies
-- Python, Pandas, NumPy  
-- Jupyter Notebook, VS Code  
-- Git & GitHub  
-- Data Cleaning, EDA, Visualization  
+## 🛠 Tools & Technologies
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
-## 📂 Current Projects
+## 📚 Currently Learning
+- Data visualization (Matplotlib, Seaborn)
+- Feature engineering techniques
+- Building cleaner, more reproducible notebooks
+- Improving storytelling with data
+
+## 📁 Current Projects
 - **Netflix EDA Project** — analyzing global content trends using Python and Pandas  
 - **Portfolio Development** — building a collection of real-world data projects  
 
@@ -17,5 +25,9 @@ I'm an aspiring Data Scientist focused on building real-world, reproducible proj
 - Building a polished portfolio for LinkedIn and GitHub  
 - Learning more about data visualization and feature engineering  
 
-## 📬 Connect with Me
-Feel free to explore my repositories or reach out if you'd like to collaborate on data projects.
+## 🎉 Fun Fact / Interests
+I love exploring real datasets, learning new tools, and improving my workflow one project at a time.
+
+## 🔗 Connect with Me
+- **LinkedIn:**
+
