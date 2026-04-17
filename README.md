@@ -29,5 +29,5 @@ I'm a Data Scientist focused on building real-world, reproducible projects using
 I love exploring real datasets, learning new tools, and improving my workflow one project at a time.
 
 ## 🔗 Connect with Me
-- **LinkedIn:**
+- **LinkedIn:**https://www.linkedin.com/in/thierryogoubi/
 
